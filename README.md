@@ -2,6 +2,9 @@
 
 A full-stack application that generates video ads from product URLs using AI. Built with Next.js, TypeScript, and modern AI tools.
 
+demo videos:
+[https://drive.google.com/drive/folders/1atI2asoxuh9avYmJ6fkzWmks-fXmLWVe?usp=sharing](videos)
+
 ## Features
 
 - Scrape product information from Amazon and Shopify URLs
