@@ -5,6 +5,9 @@ A full-stack application that generates video ads from product URLs using AI. Bu
 demo videos:
 [videos](https://drive.google.com/drive/folders/1atI2asoxuh9avYmJ6fkzWmks-fXmLWVe?usp=sharing)
 
+code walkthrough:
+[code](https://drive.google.com/drive/folders/1atI2asoxuh9avYmJ6fkzWmks-fXmLWVe?usp=sharing)
+
 ## Features
 
 - Scrape product information from Amazon and Shopify URLs
