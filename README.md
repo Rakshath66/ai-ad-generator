@@ -2,11 +2,11 @@
 
 A full-stack application that generates video ads from product URLs using AI. Built with Next.js, TypeScript, and modern AI tools.
 
-demo videos:
-[videos](https://drive.google.com/drive/folders/1atI2asoxuh9avYmJ6fkzWmks-fXmLWVe?usp=sharing)
+demo video:
+[video](https://drive.google.com/file/d/16xU0MrE2vmN6CW3cvO8wtqTUcdjeJtKA/view?usp=sharing)
 
 code walkthrough:
-[code](https://drive.google.com/drive/folders/1atI2asoxuh9avYmJ6fkzWmks-fXmLWVe?usp=sharing)
+[code](https://drive.google.com/file/d/1Tb9dWvcahq5AVG4xURdU8euStqOof4CF/view?usp=sharing)
 
 ## Features
 
